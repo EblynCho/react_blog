@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "extraBoldPlayfairDisplay";
+  src: url("./font/Playfair_Display/static/PlayfairDisplay-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "baskervilleboldTitle";
+  src: url("./font/baskerville/baskervilleboldTitle.ttf");
+}
